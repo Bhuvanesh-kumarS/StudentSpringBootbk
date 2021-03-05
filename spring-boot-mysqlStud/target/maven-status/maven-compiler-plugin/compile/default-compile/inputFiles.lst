@@ -1,0 +1,10 @@
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/controllers/StudentJController.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/controllers/StudentController.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/SpringBootMySqlApplication.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/repositories/StudentRepository.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/services/StudentService.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/services/StudentServiceImp.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/converters/StudentToStudentForm.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/converters/StudentFormToStudent.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/commands/StudentForm.java
+/Users/dineshnetaji/java-training/spring-boot-mysqlStud/src/main/java/guru/springframework/domain/Student.java

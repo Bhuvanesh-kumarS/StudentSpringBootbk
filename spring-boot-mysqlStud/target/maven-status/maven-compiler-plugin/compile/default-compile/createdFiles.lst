@@ -1,0 +1,10 @@
+guru/springframework/controllers/StudentJController.class
+guru/springframework/converters/StudentFormToStudent.class
+guru/springframework/domain/Student.class
+guru/springframework/converters/StudentToStudentForm.class
+guru/springframework/services/StudentService.class
+guru/springframework/services/StudentServiceImp.class
+guru/springframework/SpringBootMySqlApplication.class
+guru/springframework/commands/StudentForm.class
+guru/springframework/repositories/StudentRepository.class
+guru/springframework/controllers/StudentController.class
